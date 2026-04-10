@@ -24,6 +24,9 @@
 
 ## 論点ページ（topics/）
 
+### 傾向分析
+- [頻出出題パターン（4回分分析）](topics/hindo_patterns.md)
+
 ### ライフプランニングと資金計画（life）
 - [FP業務と関連法規](topics/fp_ethics_law.md)
 - [老齢年金の繰上げ・繰下げ支給](topics/nenkin_hikiage_sagari.md)
