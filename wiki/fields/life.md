@@ -43,3 +43,5 @@
 ## 関連論点ページ
 - [FP業務と関連法規](../topics/fp_ethics_law.md)
 - [老齢年金の繰上げ・繰下げ支給](../topics/nenkin_hikiage_sagari.md)
+- [公的医療保険（健康保険・後期高齢者医療制度）](../topics/kenko_hoken.md)
+- [育児休業給付・介護休業給付](../topics/ikuji_kaigo_kyufu.md)

@@ -2,6 +2,20 @@
 
 追記のみ。編集・削除禁止。
 
+## [2026-04-10] ingest | g2_202409_q.pdf, g2_202409_a.pdf
+- 2024年9月8日試験（法令基準日：2024年4月1日）60問をインジェスト
+- 新規作成：questions/g2_202409.md（全60問の解答・論点メモ）
+- 新規作成：topics/kenko_hoken.md（公的医療保険・任意継続・後期高齢者医療制度）
+- 新規作成：topics/ikuji_kaigo_kyufu.md（育児休業給付・出生時育児休業・介護休業給付）
+- 更新：topics/fp_ethics_law.md（202409問1・問2の出題履歴追加）
+- 更新：topics/seiho_shouhin.md（202409問13の出題履歴追加）
+- 更新：topics/hojin_seiho_keiri.md（202409問15の出題履歴追加）
+- 更新：topics/saiken_rimawari.md（202409問23の出題履歴追加）
+- 更新：topics/portfolio_kitai_rimawari.md（202409問27の出題履歴追加）
+- 更新：topics/son_eki_tsukan.md（202409問33の出題履歴追加）
+- 更新：fields/life.md・index.md（新規トピックリンク追加）
+- 矛盾なし。3試験で共通テーマ：FP倫理・損益通算・ポートフォリオ期待収益率
+
 ## [2026-04-10] ingest | g2_202501_q.pdf, g2_202501_a.pdf, g2_202505_qa.pdf
 - 3PDFを読み込み、全60問×2試験の解答・論点メモを作成
 - 新規作成：questions/g2_202501.md（2025年1月試験 60問）
