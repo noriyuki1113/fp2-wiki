@@ -23,7 +23,27 @@
 - [分野概要](fields/inheritance.md)
 
 ## 論点ページ（topics/）
-<!-- 論点ページが追加されたらここに記載する -->
+
+### ライフプランニングと資金計画（life）
+- [FP業務と関連法規](topics/fp_ethics_law.md)
+- [老齢年金の繰上げ・繰下げ支給](topics/nenkin_hikiage_sagari.md)
+
+### リスク管理（risk）
+- [生命保険の商品性](topics/seiho_shouhin.md)
+- [生命保険料控除](topics/seiho_ryokin_kojyo.md)
+- [法人保険の経理処理](topics/hojin_seiho_keiri.md)
+- [地震保険・火災保険](topics/jishin_hoken.md)
+
+### 金融資産運用（finance）
+- [債券の利回り計算](topics/saiken_rimawari.md)
+- [ポートフォリオ理論と期待収益率](topics/portfolio_kitai_rimawari.md)
+
+### タックスプランニング（tax）
+- [損益通算](topics/son_eki_tsukan.md)
+
+### 相続・事業承継（inheritance）
+- [小規模宅地等の特例](topics/shoukibo_takuchi.md)
 
 ## 過去問ページ（questions/）
-<!-- 過去問ページが追加されたらここに記載する -->
+- [2025年1月26日 FP2級学科試験](questions/g2_202501.md)
+- [2025年5月公表 FP2級学科試験（サンプル）](questions/g2_202505.md)
