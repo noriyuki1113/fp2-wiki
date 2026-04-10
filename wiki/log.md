@@ -2,6 +2,15 @@
 
 追記のみ。編集・削除禁止。
 
+## [2026-04-10] ingest | g2_202405_q.pdf, g2_202405_a.pdf
+- 2024年5月26日試験（法令基準日：2024年1月1日）60問をインジェスト
+- 新規作成：questions/g2_202405.md（全60問の解答・論点メモ）
+- 注目論点の問番号を確認・記録：FP倫理=問1、損益通算=問33、ポートフォリオ=問27
+- 4試験共通テーマとして損益通算（毎回問33）・FP倫理（毎回問1）を確認
+- 更新：topics/fp_ethics_law.md・son_eki_tsukan.md・portfolio_kitai_rimawari.md（出題履歴追加）
+- 更新：topics/seiho_shouhin.md・seiho_ryokin_kojyo.md・hojin_seiho_keiri.md・shoukibo_takuchi.md（出題履歴追加）
+- 更新：wiki/index.md（g2_202405.mdをカタログに追加）
+
 ## [2026-04-10] ingest | g2_202409_q.pdf, g2_202409_a.pdf
 - 2024年9月8日試験（法令基準日：2024年4月1日）60問をインジェスト
 - 新規作成：questions/g2_202409.md（全60問の解答・論点メモ）

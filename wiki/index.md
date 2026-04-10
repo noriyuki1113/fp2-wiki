@@ -47,6 +47,7 @@
 - [小規模宅地等の特例](topics/shoukibo_takuchi.md)
 
 ## 過去問ページ（questions/）
+- [2024年5月26日 FP2級学科試験](questions/g2_202405.md)
 - [2024年9月8日 FP2級学科試験](questions/g2_202409.md)
 - [2025年1月26日 FP2級学科試験](questions/g2_202501.md)
 - [2025年5月公表 FP2級学科試験（サンプル）](questions/g2_202505.md)
